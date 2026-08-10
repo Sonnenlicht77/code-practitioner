@@ -1,5 +1,9 @@
 /docs/.vitepress/dist
 /docs/.vitepress/cache
+/docs/notes/typescript
+
 node_modules
 
+code
 questionPrompt.md
+
